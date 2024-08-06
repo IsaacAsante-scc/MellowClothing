@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677212047310",
+    "project_id": "mellow-clothing",
+    "storage_bucket": "mellow-clothing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677212047310:android:b4502ea7f71dbaf810cd9f",
+        "android_client_info": {
+          "package_name": "com.example.mellowclothing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOYhZq_rOv6Ek5Iyha8D4Snq8pCEgOA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
